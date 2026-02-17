@@ -223,12 +223,12 @@ This creates multiple pods for high availability.
 
 # Key Learning Outcomes
 
-✅ End-to-end Kubernetes deployment
-✅ Docker to Kubernetes workflow
-✅ Production-style debugging
-✅ Pod lifecycle understanding
-✅ Service exposure & networking
-✅ Application scaling
+- End-to-end Kubernetes deployment
+- Docker to Kubernetes workflow
+- Production-style debugging
+- Pod lifecycle understanding
+- Service exposure & networking
+- Application scaling
 
 ---
 
