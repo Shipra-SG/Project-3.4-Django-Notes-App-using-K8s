@@ -22,6 +22,8 @@ The goal of this project is to simulate a **production-like Kubernetes deploymen
 Developer → Docker → DockerHub → Kubernetes Cluster → Deployment → Pods → Service → Browser
 ```
 
+![Architecture](screenshots/1.png)
+
 ### Flow Explanation
 
 1. Django application is containerized using Docker.
@@ -146,6 +148,8 @@ Open in browser:
 ```
 http://<public-IP>:8000
 ```
+
+![Django-app-Running Successfully](screenshots/2.png)
 
 ---
 
